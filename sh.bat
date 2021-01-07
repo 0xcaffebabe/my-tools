@@ -1,0 +1,1 @@
+python d:\tools\sh.py
